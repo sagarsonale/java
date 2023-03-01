@@ -1,0 +1,22 @@
+* language is used to powerup the backend things in programming
+* it is an mature lang which more libraries 
+* java is object oriented programming(oops).
+* similar to c++ but easier
+----------------------------------
+what can u build with java:
+*mobile apps for andirod 
+* desktop app using java swing ,java fx
+*entreprise applications
+*game such as minecraft
+*cloud based applications
+*web applications 
+*and much more
+----------------------------------
+* basic syntax of java:
+* class name
+{
+    public static void main(String[] args)
+    {
+        System.out.println("any string"+variable);
+    }
+}
