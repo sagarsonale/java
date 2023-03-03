@@ -4,13 +4,13 @@
 * similar to c++ but easier
 ----------------------------------
 what can u build with java:
-*mobile apps for andirod 
+* mobile apps for andirod 
 * desktop app using java swing ,java fx
-*entreprise applications
-*game such as minecraft
-*cloud based applications
-*web applications 
-*and much more
+* entreprise applications
+* game such as minecraft
+* cloud based applications
+* web applications 
+* and much more
 ----------------------------------
 * basic syntax of java:
 * class name
@@ -20,3 +20,38 @@ what can u build with java:
         System.out.println("any string"+variable);
     }
 }
+
+    * what is public static void main(String[] args)??
+    * it is an entry part of the java programme 
+    the things present in public will be executed otherwise no execution
+-----------------------------------------------------------------------
+    * public: were members can be accessed outside the class also 
+    * private: were prevents from accessing the members from outside the class
+---------------------------------------------------------------------
+comments in java:
+    syntax: //any thing you write here it wont executed
+    * for multiline comment: /* u cant make an multiline comment in java */
+
+----------------------------------------------------------------------
+Variable in java:
+* used to store a data 
+
+java contains eight primitive data types(simple data types) :
+-->byte,short,int,long,char,float,double and boolean
+-----------------------------------------------------------------------
+Increment and decrement operator:
+    * variable_name++(post increment)
+    * ++vaiable_name(pre-increment)
+    * variable_name--(post decrement)
+    * --variable_name(pre-decrement)
+--------------------------------------------------------
+comparator operators:
+    * < "less than operator"
+    * <= "less than or equal to operator"
+    * > "greater than operator"
+    * >= "greater than or equal to operator"
+    * == "equal to operator"
+    * != "not equal to operator"
+* All the comparators will give return value in bollean (true , false)
+--------------------------------------------------------------
+ 
