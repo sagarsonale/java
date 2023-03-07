@@ -54,4 +54,15 @@ comparator operators:
     * != "not equal to operator"
 * All the comparators will give return value in bollean (true , false)
 --------------------------------------------------------------
- 
+ strings:
+* type of data type used to store group of characters.
+* syntax: String variable_name="the text";
+* concatination of strings :
+       variable_name3 = variable_name1+variable_name2
+----------------------------------------------------------------
+reference/objects:
+* by using java.awt.Point libraries
+* syntax: Point object_name = new Point (parameter1,parameter2);
+* objects are always created in heap 
+* primitive variable are created in stack memory
+------------------------------------------------------------------
