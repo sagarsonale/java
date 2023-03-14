@@ -66,3 +66,28 @@ reference/objects:
 * objects are always created in heap 
 * primitive variable are created in stack memory
 ------------------------------------------------------------------
+constructor in java:
+* syntax: public class_name()
+    {int name = valeue;.........}
+--------------------------------------------------------
+modifiers in java :
+* public 
+* private
+* default
+* 
+
+public: 
+    where every data in public can be accessed through out the program and there can be data leak!!
+    syntax: public classs_name(){}
+private:
+    where data is private and which is accessed using the "get" and "set" function.
+syntax for get function:
+    public getname()
+    {
+        return name;
+    }
+syntax for set function:
+    public setname(int a)
+    {
+        name=a;
+    }
